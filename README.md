@@ -1,3 +1,6 @@
+⚙️ Development Status
+The project is currently in planning and early build stages. Initial commits will focus on setting up the React Native + Supabase environment. Collaborators are welcome to help shape the MVP foundation.
+
 # 🕊️ Anonymous Haven App
 
 **A peer-led recovery platform using AI and blockchain technology to empower healing, accountability, and community wellness — driven by faith.**
